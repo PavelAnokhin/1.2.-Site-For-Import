@@ -1,0 +1,7 @@
+#creating list of file for ignoring in reposotory
+
+Thumbs.db
+.DB_Store
+*_old
+*_backup
+
